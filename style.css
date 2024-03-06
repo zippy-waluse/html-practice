@@ -23,8 +23,31 @@
 }
 .image1{
     display: flex;
+    gap: 20%;
 }
 
 #giraffe{
     width: 70%;
+}
+.footer{
+    display: flex;
+    
+}
+.list{
+    list-style-type: none;
+}
+.list1{
+    list-style-type: none;
+}
+.list2{
+  list-style-type: none; 
+}
+.list3{
+    list-style-type: none;
+}
+#body{
+    margin-left: 10%;
+}
+#frame{
+    text-align: center;
 }
